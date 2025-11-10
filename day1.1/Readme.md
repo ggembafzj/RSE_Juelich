@@ -302,3 +302,5 @@ You will:
 - ✅ Creating and assigning a Pull Request
 - ✅ Reviewing and merging contributions
 </details>
+
+und noch viel mehr
